@@ -1,0 +1,2 @@
+Step - 1: Download dataset from: https://www.dropbox.com/s/o1mkcwzdoezgy5y/cord19_dataset.zip?dl=0 <br> Step - 2:  this repository <br> Step - 3:  <br> Step - 4:  to install requirements <br> Step - 5: Launch the jupyter notebook
+Step - 1: Download dataset from: https://www.dropbox.com/s/o1mkcwzdoezgy5y/cord19_dataset.zip?dl=0 <br> Step - 2:  this repository <br> Step - 3:  <br> Step - 4:  to install requirements <br> Step - 5: Launch the jupyter notebook
